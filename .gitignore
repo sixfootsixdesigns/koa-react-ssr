@@ -1,0 +1,11 @@
+.next
+dist
+.env
+
+node_modules/
+
+error.log
+
+# Ignore npm/yarn debug log
+npm-debug.log
+yarn-error.log
